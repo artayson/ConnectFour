@@ -3,7 +3,7 @@ public class Points {
 
 /* instance fields that depend on player movements */    
     private static final int WIN_POINTS = 4;
-    private static final int openSpaces = 42;
+    private static final int openSp   aces = 42;
     private static final int takenSpaces;
     private static final int connectedSpaced;
     private static final int points;
